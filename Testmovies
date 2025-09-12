@@ -5,3 +5,9 @@ https://ppdv.e35j.com/vod/1/2025/04/29/e18c596ecd0e/index5.m3u8?wsSecret=55f2a23
 #EXTVLCOPT:http-referrer=https://wavewalt.me/
 #EXTVLCOPT:http-origin=https://wavewalt.me
 https://s-a3.towtooma.net/kirill/jewo2uke8ano8o1upej0/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://ppvs.su/assets/thumb/9b13066ce81c4b4cdd053712b6fa24a7-thumbnail.jpg" group-title="🏀 NBA LEAGUE PASS",FIBA- Germany vs Slovenia 2:00am
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:Mozilla/5.0 (X11; U; Linux; en-US; rv:134.0esr) Gecko/20171519 Firefox/134.0esr
+https://gg.poocloud.in/wnba_sparks/index.m3u8
